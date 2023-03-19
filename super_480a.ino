@@ -4,7 +4,7 @@
 
 // Nerf target practice timer
 
-#include "pitches.h"
+#include "include/pitches.h"
 
 
 #define BUZZER_PIN 4
