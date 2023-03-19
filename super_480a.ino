@@ -1,9 +1,11 @@
+#include <LiquidCrystal.h>
+
+
+
 // Nerf target practice timer
 
 #include "pitches.h"
-#include <LiquidCrystal.h>
-#include <Wire.h>
-#include <DS3231.h>
+
 
 #define BUZZER_PIN 4
 #define NUM_NOTES 3
